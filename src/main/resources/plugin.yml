@@ -1,0 +1,9 @@
+name: WGDeathMessageFlags
+version: ${project.version}
+description: Adds flags managing lecterns to WorldGuard
+author: crashdemons
+website: https://github.com/crashdemons
+api-version: 1.14
+depend: [ WorldGuard ]
+
+main: com.github.crashdemons.wgdeathmessageflags.WGDeathMessageFlags
