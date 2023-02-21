@@ -1,11 +1,10 @@
-# WGLecternFlags
-Adds worldguard flags to control taking lectern books in regions
+# WGDeathMessageFlags
+Adds worldguard flags to control death messages being sent from specific regions
 
 ## Requirements
 Requires WorldGuard 7 and a Bukkit 1.14+ server
 
 
 ## Flags
-* `lectern-take` allow or deny taking books in the region (or for the group / NON_MEMBERS if set)
-* `lectern-take-warning` allow or deny warning messages when one of the above actions is blocked.
+* `death-messages` allow or deny death messages from players in the region
 
